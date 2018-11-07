@@ -1,11 +1,14 @@
 # ANET Boilerplate
 
-As an Anet owner I had to take a lot of time (and still taking) to make my Anet to print with quality. On my searching for recomemndations on how to proceed on my Anet problems, I found out that a lot of common upgrades it's used by the Anet Community (specially A6 and A8 owners) but the upgrades information is not found in one place and some times not reliable. So, this repository is not Code based, but Tutorial/Information based for common procedures that should be taken.
+As an Anet owner I had to take a lot of time (and still taking) to make my Anet to print with quality. Searching for recomemndations on how to acomplhish that objective, I found out that a lot of common upgrades are used by the Anet Community (specially A6 and A8 owners) but this information is not found in one place, and some times not explained for dummies like my self. 
 
-Here could be found the most common procedures for Anet printers printer's with simply explained How-To's. Hope It helps!
+In resume, this repository is not Code based, but *"How to upgrade Anet printers for Dummies"* based in order to hold and share common procedures that should be considered.
 
 ## Upgrades
-TODO
+
+Upgrade's are divided in ordered Stage's in order to mark an order how upgrade should implemented.
+**Note:** This not excludes the fact the Stage 3 upgrades could be implemented before previous Stage's.
+
 ### [Stage 1](Stage1/README.md) 
 * Upgrade Stock Firmware to Marlin
 
