@@ -10,23 +10,20 @@ Upgrade's are divided in ordered Stage's in order to mark an order how upgrade s
 **Note:** This not excludes the fact the Stage 3 upgrades could be implemented before previous Stage's.
 
 ### [Stage 1](Stage1/README.md) 
-* Upgrade Stock Firmware to Marlin
+* [Upgrade Stock Firmware to Marlin](Stage1/0_InstallMarlin.md)
 
 This should not be considered an Anet upgrade but a mandatory pre-requisit from the bottom. The main reason is not to take advantage of new features and bug fixing's that marlin provide, but security! The Stock Anet firmware is based on Marlin, but for some reason, it has security check's disabled which can be dangerous and costy.
 
-[How to install Marlin on Anet - Tutorial](Stage1/0_InstallMarlin.md)
 
-* Install an heat bed mosfet
+* [Install an heat bed mosfet](Stage1/1_InstallHeatBedMosfet.md)
 
 In the Anet community is recomended to install a mosfet to the hotend but, in my case, no main advantages were found. 
 
-[How to install Heat Bed Mosfet - Tutorial](Stage1/1_InstallHeatBedMosfet.md)
 
-* Add a glass bed (Optional)
+* [Add a glass bed (Optional)](Stage1/2_InstallGlassBed.md)
 
 This one is optional because is not needed to achieve good printing's, but it will make your print's with a better bottom layer quality and easyly removable. 
 
-[How to install Glass Bed - Tutorial](Stage1/2_InstallGlassBed.md)
 
 ### Stage 2
 
